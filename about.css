@@ -1,0 +1,17 @@
+.text{
+  
+    color: black;
+    font-size: 25px;
+    position: absolute;
+    text-align: center;
+}
+.link{
+    padding: 10px;
+    font-size: 40px;
+    font-weight: bolder;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    position: absolute;
+    text-decoration: none;
+}
